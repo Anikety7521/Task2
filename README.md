@@ -4,13 +4,6 @@
 
 This script performs a comprehensive security audit on Linux systems, including OS detection, package installation, user and group audits, file and directory permissions checks, service audits, firewall and network security checks, and server hardening.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Configuration](#configuration)
-3. [Review_Reports](#Review_Reports)
-4. [Example Configuration Files](#example-configuration-files)
-
-
 ## Installation
 
 1. **Clone the repository:**
