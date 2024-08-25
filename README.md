@@ -7,7 +7,7 @@ This script performs a comprehensive security audit on Linux systems, including 
 ## Table of Contents
 1. [Installation](#installation)
 2. [Configuration](#configuration)
-3. [Review Reports](#Review Reports)
+3. [Configuration](#Review_Reports)
 4. [Example Configuration Files](#example-configuration-files)
 
 
